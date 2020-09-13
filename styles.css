@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.square{
+    margin: 0 1px;
+    width: 15px;
+    height: 15px;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.hover{
+    background-color: blue;
+}
+
+#container{
+    margin:20px;
+}
+
+.button{
+    margin: 5px;
+    padding: 5px;
+}
+
+.textBox{
+    margin: 5px;
+    padding: 5px;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
